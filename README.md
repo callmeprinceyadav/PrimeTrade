@@ -5,7 +5,7 @@
 
 ## 📋 Project Overview
 
-This project is built as part of the **Frontend Developer Intern Assignment** for ** PrimeTrade.ai**.  
+This project is built as part of the **Frontend Developer Intern Assignment** for ** bajarangs and PrimeTrade.ai**.  
 It demonstrates end-to-end frontend engineering, backend API development, and integration with secure JWT authentication.
 
 
